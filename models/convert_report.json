@@ -1,0 +1,112 @@
+[
+  {
+    "id": "fmth04d0101",
+    "source": "D:\\高將3D零件運作\\高將3D 圖檔-全 03.27\\高將3D 圖檔-全 03.27\\FMTH04A\\FMTH04D0101.STEP",
+    "source_mb": 3.18,
+    "glb": "D:\\高將機械作動\\public\\models\\fmth04d0101.glb",
+    "obj": "D:\\高將機械作動\\public\\models\\fmth04d0101_parts.obj",
+    "error": null,
+    "seconds": 4.3,
+    "glb_mb": 2.71,
+    "obj_mb": 16.78
+  },
+  {
+    "id": "fmth05a0101",
+    "source": "D:\\高將3D零件運作\\高將3D 圖檔-全 03.27\\高將3D 圖檔-全 03.27\\FMTH05A\\FMTH05A0101.STEP",
+    "source_mb": 4.23,
+    "glb": "D:\\高將機械作動\\public\\models\\fmth05a0101.glb",
+    "obj": "D:\\高將機械作動\\public\\models\\fmth05a0101_parts.obj",
+    "error": null,
+    "seconds": 4.8,
+    "glb_mb": 1.58,
+    "obj_mb": 10.07
+  },
+  {
+    "id": "fmth02a0201",
+    "source": "D:\\高將3D零件運作\\高將3D 圖檔-全 03.27\\高將3D 圖檔-全 03.27\\FMTH02A\\FMTH02A0201-3D模型.STEP",
+    "source_mb": 4.39,
+    "glb": "D:\\高將機械作動\\public\\models\\fmth02a0201.glb",
+    "obj": "D:\\高將機械作動\\public\\models\\fmth02a0201_parts.obj",
+    "error": null,
+    "seconds": 7.2,
+    "glb_mb": 2.04,
+    "obj_mb": 20.47
+  },
+  {
+    "id": "fmth03a01a1",
+    "source": "D:\\高將3D零件運作\\高將3D 圖檔-全 03.27\\高將3D 圖檔-全 03.27\\FMTH03A\\FMTH03A01A1.STEP",
+    "source_mb": 10.39,
+    "glb": "D:\\高將機械作動\\public\\models\\fmth03a01a1.glb",
+    "obj": "D:\\高將機械作動\\public\\models\\fmth03a01a1_parts.obj",
+    "error": null,
+    "seconds": 12.2,
+    "glb_mb": 3.0,
+    "obj_mb": 35.83
+  },
+  {
+    "id": "fmth01a0300_right",
+    "source": "D:\\高將3D零件運作\\高將3D 圖檔-全 03.27\\高將3D 圖檔-全 03.27\\FMTH01A\\FMTH01A0300-3D模型(右側模組).STEP",
+    "source_mb": 24.22,
+    "glb": "D:\\高將機械作動\\public\\models\\fmth01a0300_right.glb",
+    "obj": "D:\\高將機械作動\\public\\models\\fmth01a0300_right_parts.obj",
+    "error": null,
+    "seconds": 24.3,
+    "glb_mb": 5.34,
+    "obj_mb": 46.69
+  },
+  {
+    "id": "fmth01a0300_left",
+    "source": "D:\\高將3D零件運作\\高將3D 圖檔-全 03.27\\高將3D 圖檔-全 03.27\\FMTH01A\\FMTH01A0300-3D模型(左側模組).STEP",
+    "source_mb": 42.26,
+    "glb": "D:\\高將機械作動\\public\\models\\fmth01a0300_left.glb",
+    "obj": "D:\\高將機械作動\\public\\models\\fmth01a0300_left_parts.obj",
+    "error": null,
+    "seconds": 40.6,
+    "glb_mb": 6.5,
+    "obj_mb": 56.94
+  },
+  {
+    "id": "fmth01a0100",
+    "source": "D:\\高將3D零件運作\\高將3D 圖檔-全 03.27\\高將3D 圖檔-全 03.27\\FMTH01A\\FMTH01A0100-3D模型.STEP",
+    "source_mb": 51.2,
+    "glb": "D:\\高將機械作動\\public\\models\\fmth01a0100.glb",
+    "obj": "D:\\高將機械作動\\public\\models\\fmth01a0100_parts.obj",
+    "error": null,
+    "seconds": 54.9,
+    "glb_mb": 9.94,
+    "obj_mb": 64.42
+  },
+  {
+    "id": "fach03a0101",
+    "source": "D:\\高將3D零件運作\\高將3D 圖檔-全 03.27\\高將3D 圖檔-全 03.27\\FACH03A\\FACH03A0101.STEP",
+    "source_mb": 65.86,
+    "glb": "D:\\高將機械作動\\public\\models\\fach03a0101.glb",
+    "obj": "D:\\高將機械作動\\public\\models\\fach03a0101_parts.obj",
+    "error": null,
+    "seconds": 86.2,
+    "glb_mb": 9.79,
+    "obj_mb": 144.03
+  },
+  {
+    "id": "fmth01a0500",
+    "source": "D:\\高將3D零件運作\\高將3D 圖檔-全 03.27\\高將3D 圖檔-全 03.27\\FMTH01A\\FMTH01A0500-3D模型.STEP",
+    "source_mb": 69.65,
+    "glb": "D:\\高將機械作動\\public\\models\\fmth01a0500.glb",
+    "obj": "D:\\高將機械作動\\public\\models\\fmth01a0500_parts.obj",
+    "error": null,
+    "seconds": 170.7,
+    "glb_mb": 18.07,
+    "obj_mb": 307.87
+  },
+  {
+    "id": "fmth02d0100",
+    "source": "D:\\高將3D零件運作\\高將3D 圖檔-全 03.27\\高將3D 圖檔-全 03.27\\FMTH02A\\FMTH02D0100-3D模型.STEP",
+    "source_mb": 69.8,
+    "glb": "D:\\高將機械作動\\public\\models\\fmth02d0100.glb",
+    "obj": "D:\\高將機械作動\\public\\models\\fmth02d0100_parts.obj",
+    "error": null,
+    "seconds": 125.2,
+    "glb_mb": 18.03,
+    "obj_mb": 236.58
+  }
+]
